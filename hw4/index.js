@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'What had been leanness in her youth had become transparency in her maturity; and this diaphaneity allowed the angel to be seen',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'He told all about this to father, who said he would disinherit me',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'I just need  few words with someone of the same social standing as myself and everything will be incomparably clearer, much clearer than a long conversation with these two can make it'      
 };
 
 function status(statusText) {
